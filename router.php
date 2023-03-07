@@ -8,5 +8,5 @@ $routes = [
     '/contact' => 'controllers/contact.php',
 
 ];
-
+ 
 routeToController($uri, $routes);
